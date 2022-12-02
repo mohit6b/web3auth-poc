@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `yarn add url process crypto-browserify stream-browserify assert stream-http https-browserify os-browserify`
 
-### `yarn add --dev react-app-rewired'
+### `yarn add --dev react-app-rewired`
 
 ### `yarn start`
 
